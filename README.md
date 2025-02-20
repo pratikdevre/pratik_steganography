@@ -1,4 +1,4 @@
-Image Steganography: Hiding Secrets in Plain Sight (Java)
+🚀✨ Image Steganography: Secure Text Encryption in Images Using Java ✨🚀
 
 📚 Overview
 
