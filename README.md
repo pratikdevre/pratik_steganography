@@ -13,7 +13,7 @@ A suitable IDE (e.g., IntelliJ IDEA, Eclipse).
 2️⃣ Clone the Repository
 
 https://github.com/pratikdevre/pratik_steganography.git
-cd image-steganography-java
+cd pratik_steganography
 
 3️⃣ Add Required Image
 
