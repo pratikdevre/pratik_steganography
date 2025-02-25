@@ -1,4 +1,4 @@
-🚀✨ Image Steganography: Hiding Secrets In Plain Sight Using Java ✨🚀
+#🚀✨ Image Steganography: Hiding Secrets In Plain Sight Using Java ✨🚀
 
 📚 Overview
 
