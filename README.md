@@ -1,6 +1,6 @@
-🚀✨ #Image Steganography: Hiding Secrets In Plain Sight Using Java ✨🚀
+# 🚀✨ Image Steganography: Hiding Secrets In Plain Sight Using Java ✨🚀
 
-📚 **Overview**
+## 📚 **Overview**
 
 This project demonstrates Image Steganography using Java, focusing on text encryption within images. The encryption code hides messages by manipulating the blue channel of each pixel, ensuring that the image's appearance remains unchanged. A password protection feature secures the encryption process, providing a robust method for safe message transmission.
 
